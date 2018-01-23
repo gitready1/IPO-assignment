@@ -1,3 +1,4 @@
+
 ## Clone this repository. 
 
 You will do this exercise in groups. 
@@ -11,9 +12,9 @@ One person should type in the processes.
 
 |Input              |Process                                 |Output                                               |
 |-------------------|----------------------------------------|-----------------------------------------------------|
-|                   |                                        | Speak:Hello                                         |
-|how do I get to the bathroom?  |Understand you have just been greeted   | Speak:Hello                                         |
-|                   |                                        | Speak:Hello                                         |
+|how do I get to the bathroom?
+|		    |Listen to the question and think about an answer|
+|		    |Determine the manner and tone to use to communicate with the person asking the question.|
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
