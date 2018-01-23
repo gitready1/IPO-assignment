@@ -18,13 +18,12 @@ One person should type in the processes.
 |		    |Check your mood|
 |		    |If you are in a goood mood|
 |		    |                                        |
-|                   |If you are in a good mood|
-|                   |                         |              |Don't smile, but try not to be rude||
-|		    |                         |
-|                   |                                        |Don't smile, but try not to be rude|
-|                   |                                        |
-|
-|		    |Determine where the bathroom is in relation to your current location|
-|	            |Determine the level of specificity the person asking the question will need-should I ask them to count steps, or will vague directions be enough? Tailor your output to the desired audience.|
-|Thank You!          |
-addwon
+|                   |If you are not in a good mood|
+|                   |                         | Don't smile, but try not to be rude|
+|		    |Determine where the bathroom is in relation to your currect location|
+|                   |Determine the level of specificity the person asking the question will need -should I ask them to count steps, or willvague directions be enough? Tailor your outputto the desired audience.|
+|                   |Determine the landmark that should be used to identify if the user is one the right track, e.g. room 408(the room with a full length glass window to the side)| 
+|	            |Stay silent|
+|Thank you          |
+
+subedi0
