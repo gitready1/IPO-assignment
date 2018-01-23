@@ -19,9 +19,18 @@ One person should type in the processes.
 |		    |If you are in a goood mood|
 |		    |                                        |Smile|
 |                   |If you are in a good mood|
-|                   |                                        |Don't smile, but try not to be rude|
-
-
+|                   |                                        |Don't smile, but try not to be rude||
+|		    |                         |
+|
+|
+|
+|
+|
+|
+|
+|
+| Thank you!|
+              
 e the inputs processes and outputs when someone asks for the bathroom: 
 
 Question: How do I get to the bathroom?
