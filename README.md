@@ -12,13 +12,14 @@ One person should type in the processes.
 
 |Input              |Process                                 |Output                                               |
 |-------------------|----------------------------------------|-----------------------------------------------------|
-|how do I get to the bathroom?
+|How do I get to the bathroom?|
 |		    |Listen to the question and think about an answer|
 |		    |Determine the manner and tone to use to communicate with the person asking the question.|
 |		    |Check your mood|
 |		    |If you are in a goood mood|
-|		    |                                        |Smile|
+|		    |                                        |
 |                   |If you are in a good mood|
+<<<<<<< HEAD
 |
 |                   |                                        |Don't smile, but try not to be rude||
 |		    |                         |
@@ -37,7 +38,12 @@ One person should type in the processes.
               
 =======
 |                   |                                        |Don't smile, but try not to be rude|
+=======
+|                   |                                        |
+>>>>>>> 6739628f1e780dfdff5d4d9ead266ec48b647b62
 |		    |Determine where the bathroom is in relation to your current location|
+|	            |Determine the level of specificity the person asking the question will need-should I ask them to count steps, or will vague directions be enough? Tailor your output to the desired audience.|
+
 
 
 >>>>>>> 3b7d30fb96cfe73b2978f3b4a6e6ef50ab426cba
