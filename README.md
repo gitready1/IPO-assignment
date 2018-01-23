@@ -25,7 +25,6 @@ One person should type in the processes.
 |                   |Determine the landmark that should be used to identify if the user is one the right track, e.g. room 408(the room with a full length glass window to the side)| 
 |                   |                                        |Speak: When you leave this room(room 440/441),turn left and continue pass the elevators.|
 |                   |                                        |Speak: Turn left just before the glass door to the reception. Look for the bathroom on your left.|
-|
 |	            |Stay silent|
 |Thank you          |
 
