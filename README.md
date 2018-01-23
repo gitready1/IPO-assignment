@@ -15,8 +15,14 @@ One person should type in the processes.
 |how do I get to the bathroom?
 |		    |Listen to the question and think about an answer|
 |		    |Determine the manner and tone to use to communicate with the person asking the question.|
+|		    |Check your mood|
+|		    |If you are in a goood mood|
+|		    |                                        |Smile|
+|                   |If you are in a good mood|
+|                   |                                        |Don't smile, but try not to be rude|
 
-### Determine the inputs processes and outputs when someone asks for the bathroom: 
+
+e the inputs processes and outputs when someone asks for the bathroom: 
 
 Question: How do I get to the bathroom?
 
