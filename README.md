@@ -18,7 +18,7 @@ One person should type in the processes.
 |		    |Check your mood|
 |		    |If you are in a goood mood|
 |		    |                                        |
-|                   |If you are in a good mood|
+|                   |If you are not in a good mood|
 |                   |                         | Don't smile, but try not to be rude|
 |		    |Determine where the bathroom is in relation to your currect location|
 |                   |Determine the level of specificity the person asking the question will need -should I ask them to count steps, or willvague directions be enough? Tailor your outputto the desired audience.|
