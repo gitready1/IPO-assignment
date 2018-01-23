@@ -17,13 +17,16 @@ One person should type in the processes.
 |		    |Determine the manner and tone to use to communicate with the person asking the question.|
 |		    |Check your mood|
 |		    |If you are in a goood mood|
-|		    |                                        |
+|		    |                                        |Smile|
 |                   |If you are not in a good mood|
-|                   |                         | Don't smile, but try not to be rude|
+|                   |                                        | Don't smile, but try not to be rude|
 |		    |Determine where the bathroom is in relation to your currect location|
 |                   |Determine the level of specificity the person asking the question will need -should I ask them to count steps, or willvague directions be enough? Tailor your outputto the desired audience.|
 |                   |Determine the landmark that should be used to identify if the user is one the right track, e.g. room 408(the room with a full length glass window to the side)| 
+|                   |                                        |Speak: When you leave this room(room 440/441),turn left and continue pass the elevators.|
+|                   |                                        |Speak: Turn left just before the glass door to the reception. Look for the bathroom on your left.|
+|
 |	            |Stay silent|
 |Thank you          |
 
-subedi0
+Mira
