@@ -20,6 +20,7 @@ One person should type in the processes.
 |		    |                                        |Smile|
 |                   |If you are in a good mood|
 |                   |                                        |Don't smile, but try not to be rude|
+|		    |Determine where the bathroom is in relation to your current location|
 
 
 e the inputs processes and outputs when someone asks for the bathroom: 
@@ -69,3 +70,4 @@ Speak: You're welcome
 Upload this project to an organisation's repository and submit the link in the assignment. 
 
 
+addwon
