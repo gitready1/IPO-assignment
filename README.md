@@ -19,6 +19,7 @@ One person should type in the processes.
 |		    |If you are in a goood mood|
 |		    |                                        |Smile|
 |                   |If you are in a good mood|
+|
 |                   |                                        |Don't smile, but try not to be rude||
 |		    |                         |
 |
@@ -30,7 +31,16 @@ One person should type in the processes.
 |
 |
 | Thank you!|
+
+
+
               
+=======
+|                   |                                        |Don't smile, but try not to be rude|
+|		    |Determine where the bathroom is in relation to your current location|
+
+
+>>>>>>> 3b7d30fb96cfe73b2978f3b4a6e6ef50ab426cba
 e the inputs processes and outputs when someone asks for the bathroom: 
 
 Question: How do I get to the bathroom?
@@ -78,3 +88,4 @@ Speak: You're welcome
 Upload this project to an organisation's repository and submit the link in the assignment. 
 
 
+addwon
